@@ -1,4 +1,4 @@
-## **## Seu Guia Completo para o Brasileirão: Um README Descontraído**
+**## Seu Guia Completo para o Brasileirão:**
 
 **⚽ Bora pra cima!** ⚽
 
